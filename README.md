@@ -6,6 +6,6 @@
   - [Screenshot](images/Card-Desktop.png)
   - [solution URL here](https://github.com/Bilal-makh/card_challenge)
   - [live site URL here](https://bilal-makh.github.io/card_challenge/)
-- [Author](@Bilal-makh)
+- [Author](https://www.frontendmentor.io/profile/Bilal-makh)
 
 
