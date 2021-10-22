@@ -1,7 +1,7 @@
 body {
     height: 97.5vh;
     font-family: 'Red Hat Display', sans-serif;
-    background-color: hsl(225, 100%, 98%);;
+    background-color: #e0e8ff;;
     display: flex;
     justify-content: center;
     align-items: center;
